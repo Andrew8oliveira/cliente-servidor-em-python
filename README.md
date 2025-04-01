@@ -1,5 +1,5 @@
 # cliente-servidor-em-python
-# Um clássico problema em sistemas distribuídos -  problema dos Filósofos comerciantes. 
+# Um clássico problema em sistemas distribuídos -  problema dos Filósofos comerciantes adaptado para uma oficina mecânica. 
 import socket
 import threading
 import random
